@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <tittle> APP Empresariales </tittle>
+        <title> APP Empresariales </title>
     </head>
     <body>
         <?php echo '<p>Hola Mundo</p>'; ?>
